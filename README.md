@@ -1,0 +1,2 @@
+# inteligencia-A
+inteligencia artificial
